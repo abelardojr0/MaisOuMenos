@@ -7,8 +7,6 @@
 Projeto desenvolvido em React com o objetivo de praticar apreendizado, é jogo com receptor de voz.
 
 
-Projeto 100% responsivo!
-
 ##  :computer:  Versão Desktop:
 ![desktop](https://user-images.githubusercontent.com/106066785/229650190-1c84e1ba-28c0-4d12-a3a0-0cc1f993de55.png)
 
